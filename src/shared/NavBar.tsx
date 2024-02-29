@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 const NavBar = () => {
   const navAnimated = {
     hidden: {
-      y: -40,
+      y: -60,
     },
     visible: {
       y: -0,
